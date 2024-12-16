@@ -8,7 +8,7 @@ from PIL import Image  # Pillow 라이브러리 임포트
 st.set_page_config(layout="wide")  
   
 # 이미지 경로 설정  
-image_dir = '/datasets/DTS2024000089/data/'  
+image_dir = 'img/'  
   
 # JSON 파일 경로 설정  
 auction_data_file = 'auction_data.json'  
